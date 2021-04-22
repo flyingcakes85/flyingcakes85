@@ -7,6 +7,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Chika is cute ✨
 
-[![Snehit's GitHub stats](https://github-readme-stats.vercel.app/api?username=snehitsah&count_private=true&show_icons=true)](https://github.com/snehitsah/snehitsah)
+[![Snehit's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingcakes85&count_private=true&show_icons=true)](https://github.com/flyingcakes85/flyingcakes85)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehitsah&layout=compact)](https://github.com/snehitsah/snehitsah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyingcakes85&layout=compact)](https://github.com/flyingcakes85/flyingcakes85)
