@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Endeavour OS Bspwm Edition
+- 🔭 I’m currently working on Endeavour OS Openbox Edition
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Linux
 - 📫 How to reach me: `echo "c25laGl0c2FoQHByb3Rvbm1haWwuY29tCg==" | base64 -d`
