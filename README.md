@@ -5,7 +5,7 @@
 - 💬 Ask me about Linux
 - 📫 How to reach me: `echo "c25laGl0c2FoQHByb3Rvbm1haWwuY29tCg==" | base64 -d`
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Chika is cute ✨
+- ⚡ Fun fact: Chika Fujiwara is cute ✨
 
 [![Snehit's GitHub stats](https://github-readme-stats.vercel.app/api?username=flyingcakes85&count_private=true&show_icons=true)](https://github.com/flyingcakes85/flyingcakes85)
 
