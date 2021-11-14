@@ -20,6 +20,8 @@ I make FOSS/ Linux related YouTube videos in my free time.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/flyingcakes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="flyingcakes" height="30" width="40" /></a>
+
+  ![Twitter Follow](https://img.shields.io/twitter/follow/flyingcakes85?label=Follow%20me%20on%20twitter&style=for-the-badge)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
