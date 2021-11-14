@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingcakes85&label=Profile%20views&color=0e75b6&style=flat-square" alt="flyingcakes85" /> </p>
 
+I make FOSS/ Linux related YouTube videos in my free time.
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ6ce7rxFtVxFPr63ImZ3vg?label=Youtube%20Subs&style=for-the-badge)
+
 - 🌱 I’m currently learning **web dev**
 
 - 📝 I regularly write articles on [https://flyingcakes85.github.io/blog/](https://flyingcakes85.github.io/blog/)
