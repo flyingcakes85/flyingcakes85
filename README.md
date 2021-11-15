@@ -5,7 +5,7 @@
 
 I make FOSS/ Linux related YouTube videos in my free time.
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ6ce7rxFtVxFPr63ImZ3vg?label=Youtube%20Subs&style=for-the-badge)
+<a href="https://www.youtube.com/channel/UCZ6ce7rxFtVxFPr63ImZ3vg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ6ce7rxFtVxFPr63ImZ3vg?label=Youtube%20Subs&style=for-the-badge)</a>
 
 - 🌱 I’m currently learning **web dev**
 
@@ -21,7 +21,7 @@ I make FOSS/ Linux related YouTube videos in my free time.
 <p align="left">
 <a href="https://dev.to/flyingcakes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="flyingcakes" height="30" width="40" /></a>
 
-  ![Twitter Follow](https://img.shields.io/twitter/follow/flyingcakes85?label=Follow%20me%20on%20twitter&style=for-the-badge)
+  <a href="https://twitter.com/flyingcakes85">![Twitter Follow](https://img.shields.io/twitter/follow/flyingcakes85?label=Follow%20me%20on%20twitter&style=for-the-badge)</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
