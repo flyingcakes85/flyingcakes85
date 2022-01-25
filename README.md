@@ -9,7 +9,7 @@ I make FOSS/ Linux related YouTube videos in my free time.
 
 - 🌱 I’m currently learning **web dev**
 
-- 📝 I regularly write articles on [https://flyingcakes85.github.io/blog/](https://flyingcakes85.github.io/blog/)
+- 📝 I regularly write articles on [https://snehit.dev/posts/](https://snehit.dev/posts/)
 
 - 💬 Ask me about **Linux**
 
