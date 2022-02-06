@@ -13,7 +13,7 @@ I make FOSS/ Linux related YouTube videos in my free time.
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **snehitsah@protonmail.com**
+- 📫 How to reach me **[hi@snehit.dev](mailto:hi@snehit.dev)**
 
 - ⚡ Fun fact **Chika Fujiwara is cute ✨**
 
