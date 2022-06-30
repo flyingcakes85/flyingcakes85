@@ -15,7 +15,7 @@ I text my ladyfriend in my free time (also when I'm busy)
 
 - 📫 How to reach me **[hi@snehit.dev](mailto:hi@snehit.dev)**
 
-- ⚡ Fun fact **Chika Fujiwara is cute ✨**
+- ⚡ Fun fact **I am a cake ✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
