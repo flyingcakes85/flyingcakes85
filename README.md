@@ -7,7 +7,7 @@ I text my ladyfriend in my free time (also when I'm busy)
 
 <a href="https://www.youtube.com/channel/UCZ6ce7rxFtVxFPr63ImZ3vg">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZ6ce7rxFtVxFPr63ImZ3vg?label=Youtube%20Subs&style=for-the-badge)</a>
 
-- 🌱 I’m currently busy with Glife
+- 🌱 I’m currently busy with life
 
 - 📝 I regularly write articles on [https://snehit.dev/posts/](https://snehit.dev/posts/)
 
